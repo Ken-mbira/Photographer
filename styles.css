@@ -27,3 +27,18 @@ li{
     width: 300px;
     text-align: center;
 }
+.img{
+    border:2px solid purple;
+
+}
+#img1{
+    background-color: chocolate;
+}
+#img2{
+    background-color: darkgray;
+}
+#img3{
+    background-color: darkred;
+}
+#img4{background-color: deeppink;
+}
